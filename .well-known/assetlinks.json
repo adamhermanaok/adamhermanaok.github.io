@@ -1,1 +1,14 @@
-
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.google.androidbrowserhelper.demos.customtabsauthtab",
+            "sha256_cert_fingerprints": [
+                "79:6A:D2:26:D9:76:5B:6B:72:57:8E:72:3A:5B:44:40:C9:7B:44:32:CE:E4:D4:81:86:34:0B:D8:FD:43:38:4C",
+            ]
+        }
+    }
+]
